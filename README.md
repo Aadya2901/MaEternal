@@ -1,222 +1,35 @@
-# 🌸 MaEternal – From First Step to Baby’s First Steps
+# v0-ma-eternal
 
-*A Calm, AI-Powered Maternal Wellness Companion*
+This is a [Next.js](https://nextjs.org) project bootstrapped with [v0](https://v0.app).
 
-**MaEternal** is a responsive, privacy-first maternal wellness web application designed to support women across **every stage of their journey — pre-pregnancy, pregnancy, and postpartum**.
+## Built with v0
 
-Unlike traditional apps that focus on a single phase, MaEternal provides **continuous care**, combining tracking, emotional support, and AI-driven guidance into one seamless experience.
+This repository is linked to a [v0](https://v0.app) project. You can continue developing by visiting the link below -- start new chats to make changes, and v0 will push commits directly to this repo. Every merge to `main` will automatically deploy.
 
-Instead of overwhelming users with clinical jargon, MaEternal focuses on **empathy, simplicity, and emotional safety**, helping women feel supported, informed, and confident at every step.
+[Continue working on v0 →](https://v0.app/chat/projects/prj_UdRF1ZNwppAH017fx7Q5UlYl1SPR)
 
-> ⚠️ **Disclaimer:** MaEternal is **not a medical or diagnostic platform**.
-> It provides general wellness insights and self-care guidance and does **not replace professional medical advice**.
+## Getting Started
 
----
+First, run the development server:
 
-## 🎯 Project Objective
-
-To build an **emotionally supportive, accessible, and intelligent maternal wellness platform** that empowers women to:
-
-* Understand their bodies before pregnancy
-* Track and navigate pregnancy with clarity
-* Receive support during postpartum recovery
-* Maintain nutrition, hydration, and mental wellness
-* Access **AI-powered, non-diagnostic guidance**
-* Feel reassured while knowing when to seek professional care
-
-The goal is **continuous care, confidence, and comfort — not diagnosis**.
-
----
-
-## 🚀 Live Demo
-
-🔗 **Website:** https://ma-eternal-rose.vercel.app/ <br>
-🎥 **Demo Video:** https://www.youtube.com/watch?v=WOWujWeWXVo
-
----
-
-## 🖥️ Tech Stack
-
-### Frontend
-
-* HTML5
-* CSS3
-* JavaScript
-* TypeScript
-* Vite
-
-### Styling & UI
-
-* Tailwind CSS
-* Mobile-first, responsive design
-* Soft pastel, calming UI system
-* Accessibility-focused typography and spacing
-
-### AI & Intelligence
-
-* **Google Gemini API** – conversational maternal wellness guidance
-* Fallback response system for reliability during low connectivity
-
-### Architecture
-
-* Modular, phase-based component design
-* Dynamic UI based on user journey (pre, pregnancy, postpartum)
-* Frontend-focused with local state persistence
-
-### Deployment
-
-* **Vercel**
-
----
-
-## 🌟 Key Features
-
-### 🌸 Pre-Pregnancy 
-
-* Period and ovulation tracking
-* Fertility awareness insights
-* Symptom and mood logging
-* Cycle pattern understanding
-
----
-
-### 🤰 Pregnancy 
-
-* Week-by-week fetal growth tracking
-* Trimester insights and milestones
-* Symptom tracking and gentle guidance
-* Due date and progress visualization
-
----
-
-### 👶 Postpartum Care
-
-* Baby growth tracking
-* Feeding log 🍼 (breastfeeding/bottle tracking)
-* Sleep and recovery monitoring
-* Emotional wellness and journaling
-
----
-
-### 🍽️ NutriNest — Nutrition Planner
-
-* Meal tracking (breakfast, lunch, dinner, snacks)
-* Hydration tracking with daily goals
-* Supplement checklist
-* Personalized nutrition awareness
-
----
-
-### 🧘 MindEase — Mental Wellness
-
-* Daily mood check-ins
-* Stress, energy, and sleep tracking
-* Guided breathing exercises
-* Private journaling space
-
----
-
-### 💬 MamaAI — AI Companion
-
-* Calm, empathetic, and non-judgmental responses
-* Phase-aware guidance (pre, pregnancy, postpartum)
-* Always available support
-* Fallback system ensures it **never breaks during use**
-
----
-
-### 💖 Today Card (Personalized Dashboard)
-
-* Daily summary of health, mood, and progress
-* Context-aware suggestions
-* Quick, actionable insights
-
----
-
-### 🔄 Journey Timeline
-
-* Visual progression across all stages
-* Reinforces continuity from planning → motherhood
-
----
-
-### 🔐 Privacy-First by Design
-
-* No mandatory login
-* Minimal sensitive data usage
-* User-controlled local data
-* Safe, accessible experience
-
----
-
-## 📁 Folder Structure
-
-```
-.
-├── .env
-├── .gitignore
-├── screenshots/
-├── index.html
-├── package.json
-├── tailwind.config.ts
-├── vite.config.ts
-└── README.md
-```
-
----
-
-## ⚙️ Setup Instructions
-
-### 1. Clone the Repository
-
-```
-git clone https://github.com/your-username/ma-eternal.git
-cd ma-eternal
-```
-
-### 2. Run Locally
-
-```
-npm install
+```bash
 npm run dev
+# or
+yarn dev
+# or
+pnpm dev
 ```
 
----
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## 🌍 Deployment (Vercel)
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-Deploy instantly using Vercel by connecting your GitHub repository.
+## Learn More
 
----
+To learn more, take a look at the following resources:
 
-## 👥 Contributors
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [v0 Documentation](https://v0.app/docs) - learn about v0 and how to use it.
 
-| Name                | Role                                               |
-| ------------------- | -------------------------------------------------- |
-| **@aadya2901**      | Team Lead, AI Integration, UX Design, Architecture |
-| **@ananyamishra13** | UI Development, Components                         |
-| **@iam-anish15**    | UI Styling & Visual Design                         |
-
----
-
-## 🛣️ Future Enhancements
-
-* AI personalization based on long-term patterns
-* Multilingual support (Hindi and more)
-* Reminder systems for routines and appointments
-* Optional authentication with secure cloud sync
-* Mobile app version
-
----
-
-## 📝 License
-
-MIT License
-
----
-
-## 💬 Final Note
-
-> **“We don’t just track motherhood — we support the woman behind it.”** 🌸
-
-MaEternal is built to be a **companion, not just an app** — offering comfort, clarity, and care at every step.
+<a href="https://v0.app/chat/api/kiro/clone/Aadya2901/v0-ma-eternal" alt="Open in Kiro"><img src="https://pdgvvgmkdvyeydso.public.blob.vercel-storage.com/open%20in%20kiro.svg?sanitize=true" /></a>
