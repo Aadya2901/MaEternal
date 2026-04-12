@@ -30,9 +30,8 @@ The goal is **continuous care, confidence, and comfort — not diagnosis**.
 
 ## 🚀 Live Demo
 
-🔗 **Website:** https://ma-eternal-rose.vercel.app/
-🎥 **Demo Video:** https://youtu.be/WOWujWeWXVo
-
+🔗 **Website:** [Vist the Website](https://v0-ma-eternal.vercel.app/) <br>
+🎥 **Demo Video:** [View the Demo](https://www.youtube.com/watch?v=WOWujWeWXVo)
 ---
 
 ## 🖥️ Tech Stack
