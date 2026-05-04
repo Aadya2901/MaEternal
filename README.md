@@ -194,8 +194,7 @@ Deploy instantly using Vercel by connecting your GitHub repository.
 | Name                | Role                                               |
 | ------------------- | -------------------------------------------------- |
 | **@aadya2901**      | Team Lead, AI Integration, UX Design, Architecture |
-| **@ananyamishra13** | UI Development, Components                         |
-| **@iam-anish15**    | UI Styling & Visual Design                         |
+| **@ananyamishra13** | UI Development, Components                                                  |
 
 ---
 
