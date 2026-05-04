@@ -31,7 +31,7 @@ The goal is **continuous care, confidence, and comfort — not diagnosis**.
 ## 🚀 Live Demo
 
 🔗 Website: [Vist the Website](https://v0-ma-eternal.vercel.app/) <br>
-🎥 Demo Video: [View the Demo](https://www.youtube.com/watch?v=WOWujWeWXVo)
+🎥 Demo Video: [View the Demo](https://youtu.be/fGCR6hhIwr4?si=2NZgsyN8QBij5z7V)
 
 ---
 
